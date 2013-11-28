@@ -14,4 +14,5 @@ and open the template in the editor.
         // put your code here
         ?>
     </body>
+    <!-- Adding my own comments here-->
 </html>
